@@ -61,6 +61,24 @@
       "timeout": 10
     },
     {
+      "key": "我的夸克",
+      "name": "🗽我的┃夸克",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "MyQuark"
+      },
+      "timeout": 30
+    },
+    {
       "key": "本地播放",
       "name": "🐼本地┃播放",
       "type": 3,
@@ -506,24 +524,6 @@
         "danmu": true
       },
       "timeout": 10
-    },
-    {
-      "key": "我的夸克",
-      "name": "🗽我的┃夸克",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyQuark"
-      },
-      "timeout": 30
     },
     {
       "key": "我的UC",
@@ -1340,6 +1340,14 @@
   ],
   "lives": [
     {
+      "name": "悠哉",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fuchenyouzai/TG-fuchenyouzaibot-IPTV-m3u/refs/heads/main/%E6%82%A0%E5%93%89.m3u",
+      "playerType": 2,
+      "timeout": 10
+    },
+
+   {
       "name": "MIGU（登录版）",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
