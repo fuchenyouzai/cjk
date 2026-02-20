@@ -1340,13 +1340,19 @@
   ],
   "lives": [
     {
-      "name": "悠哉",
+      "name": "悠哉综合直播",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fuchenyouzai/TG-fuchenyouzaibot-IPTV-m3u/refs/heads/main/%E6%82%A0%E5%93%89.m3u",
       "playerType": 2,
       "timeout": 10
     },
-
+   {
+      "name": "悠哉口米口古直播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/%E5%8F%A3%E7%B1%B3%E5%8F%A3%E5%8F%A4.m3u",
+      "playerType": 1,
+      "timeout": 10
+    },
    {
       "name": "MIGU（登录版）",
       "type": 0,
