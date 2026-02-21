@@ -1,7 +1,7 @@
 {
   "spider": "./0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "logo": "https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
   "sites": [
     {
       "key": "豆瓣",
@@ -77,6 +77,56 @@
         "sp": "MyQuark"
       },
       "timeout": 30
+    },
+    {
+      "key": "我的UC",
+      "name": "😼我的┃UC",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "MyUc"
+      },
+      "timeout": 30
+    },
+    {
+      "key": "瓜子看球",
+      "name": "⚽瓜子┃看球",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "GzSport"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "88看球",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "Kanqiu"
+      },
+      "timeout": 10
     },
     {
       "key": "本地播放",
@@ -526,24 +576,6 @@
       "timeout": 10
     },
     {
-      "key": "我的UC",
-      "name": "😼我的┃UC",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "MyUc"
-      },
-      "timeout": 30
-    },
-    {
       "key": "我的百度",
       "name": "☘️我的┃百度",
       "type": 3,
@@ -775,38 +807,6 @@
       },
       "ext": {
         "sp": "Huya"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "瓜子看球",
-      "name": "⚽瓜子┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "GzSport"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "88看球",
-      "name": "⚽88┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "Kanqiu"
       },
       "timeout": 10
     },
@@ -1342,14 +1342,14 @@
     {
       "name": "悠哉综合直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fuchenyouzai/TG-fuchenyouzaibot-IPTV-m3u/refs/heads/main/%E6%82%A0%E5%93%89.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/TG-fuchenyouzaibot-IPTV-m3u/refs/heads/main/%E6%82%A0%E5%93%89.m3u",
       "playerType": 2,
       "timeout": 10
     },
    {
       "name": "悠哉口米口古直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/%E5%8F%A3%E7%B1%B3%E5%8F%A3%E5%8F%A4.m3u",
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/%E5%8F%A3%E7%B1%B3%E5%8F%A3%E5%8F%A4.m3u",
       "playerType": 1,
       "timeout": 10
     },
