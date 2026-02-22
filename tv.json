@@ -1367,7 +1367,7 @@
     {
       "name": "悠哉咪咕体育",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u",
       "playerType": 2,
       "timeout": 10
     },
