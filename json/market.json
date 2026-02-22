@@ -29,19 +29,37 @@
         "name": "电视盒子32V7A",
         "url": "1.apk",
          "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "version": "v7a369"
       },
       {
         "name": "电视盒子64V8A",
         "url": "1.apk",
          "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v8a"
+        "version": "v8a369"
       },
       {
         "name": "海信32V7A",
         "url": "1.apk",
          "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "version": "v7a369"
+      },
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
+      },
+      {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a370"
+      },
+      {
+        "name": "海信32V7A",
+        "url": "1.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
       }
     ]
   },
@@ -52,13 +70,25 @@
         "name": "手机32V7A",
         "url": "1.apk",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "version": "v7a369"
       },
       {
         "name": "手机64V8A",
         "url": "1.apk",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v8a"
+        "version": "v8a369"
+      },
+      {
+        "name": "手机32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
+      },
+      {
+        "name": "手机64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a370"
       }
     ]
   },
@@ -157,16 +187,46 @@
         "name": "电视盒子32V7A",
         "url": "1.apk",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "version": "v7a362"
       },
      {
         "name": "电视盒子64V8A",
         "url": "1.apk",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v8a"
+        "version": "v8a362"
+      },
+     {
+        "name": "海信32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a362"
+      },
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a369"
+      },
+     {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a369"
+      },
+      {
+        "name": "电视盒子32V7A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v7a370"
+      },
+     {
+        "name": "电视盒子64V8A",
+        "url": "1.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "v8a370"
       }
-    ]
-  },
+     ]
+     },
   {
     "name": "电视TVBOX安卓4",
     "list": [
