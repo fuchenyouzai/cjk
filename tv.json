@@ -1413,15 +1413,15 @@
    }
    },
     {
-      "name": "冰茶",
+      "name": "直播1",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
       "playerType": 2,
       "timeout": 10,
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
-{      
-     "name": "直播", 
+   {      
+     "name": "直播2", 
      "type": 0,
      "playerType": 2,
      "url":"https://iptv.gstory.cn/Cinetry",
