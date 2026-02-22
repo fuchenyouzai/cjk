@@ -509,6 +509,8 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
 #EXTINF:-1 tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="悠哉" group-title="BRTV",BRTV纪实科教
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="悠哉" group-title="咪咕晴彩",五星体育
+http://43.251.226.110:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
 #EXTINF:-1 tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="悠哉" group-title="咪咕晴彩",晴彩竞技
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
@@ -527,7 +529,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
 
 
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="悠哉" group-title="切线换台",咪咕体育
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="悠哉" group-title="点线路换台",咪咕体育
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
@@ -564,7 +566,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="无" tvg-name="无" tvg-logo="悠哉" group-title="无",无
+#EXTINF:-1 tvg-id="检查" tvg-name="检查" tvg-logo="悠哉" group-title="源检查",筛选检查
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226702/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226711/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226720/index.m3u8
