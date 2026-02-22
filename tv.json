@@ -61,6 +61,24 @@
       "timeout": 10
     },
     {
+      "key": "直播转点播",
+      "name": "🐼️┃电视┃直播",
+      "type": 3,
+	  "searchable": 0,
+	  "api": "./js/live2vod.js",
+	  "ext": "./json/feimaolive.json"
+	},
+	{
+      "key": "應用商店",
+      "name": "悠哉应用商店",
+      "type": 3,
+       "jar":"./jar/pg.jar",
+      "api": "csp_Market",
+      "searchable": 0,
+	  "changeable": 0,
+	  "ext": "./json/market.json"
+	},
+    {
       "key": "我的夸克",
       "name": "🗽我的┃夸克",
       "type": 3,
@@ -1342,15 +1360,15 @@
     {
       "name": "悠哉综合直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/TG-fuchenyouzaibot-IPTV-m3u/refs/heads/main/%E6%82%A0%E5%93%89.m3u",
-      "playerType": 2,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉直播.m3u",
+      "playerType": 1,
       "timeout": 10
     },
-   {
-      "name": "悠哉口米口古直播",
+    {
+      "name": "悠哉咪咕体育",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/%E5%8F%A3%E7%B1%B3%E5%8F%A3%E5%8F%A4.m3u",
-      "playerType": 1,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/悠哉口米口古.m3u,
+      "playerType": 2,
       "timeout": 10
     },
    {
@@ -1368,6 +1386,33 @@
       "timeout": 10
     },
     {
+      "name": "悠哉EPG测试",
+      "type": 0,
+      "url": "./lib/悠哉直播.m3u",
+      "playerType": 2,
+      "epg": "egp地址/?ch={name}&date={date}",
+      "logo": "logo地址/logo/{name}.png"
+    },
+    {
+      "name": "悠哉直播测试",
+      "type": 0,
+      "url": "./lib/悠哉直播.m3u",
+      "playerType": 1,
+      "timeout": 10
+    },
+   {
+      "name": "直播epg和logo和回放",
+  	"type": 0,
+	  "url": "./lib/悠哉直播.m3u",
+  	"ua": "okhttp/3.15",
+	  "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+	  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+      "catchup": {
+        "type": "append",
+		"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+   }
+   },
+    {
       "name": "冰茶",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
@@ -1375,6 +1420,13 @@
       "timeout": 10,
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
+{      
+     "name": "直播", 
+     "type": 0,
+     "playerType": 2,
+     "url":"https://iptv.gstory.cn/Cinetry",
+     "ua": "bingcha/1.1 (mianfeifenxiang)"
+     },
     {
       "name": "江苏移动",
       "type": 0,
