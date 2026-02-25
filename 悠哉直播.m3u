@@ -157,27 +157,29 @@ http://127.0.0.1:9978/proxy?do=migu&type=program&id=LqcR79IphVTl0dv6UdYnrQ%3D%3D
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=Tz49cCQd1CIjc1dIBhqNEg%3D%3D
 #EXTINF:-1 tvg-id="心动漫" tvg-name="心动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",心动漫
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=KzcMaEaXjsU0HEx%2B8L4qyQ%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道0" tvg-name="熊猫频道0" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道0
+
+
+#EXTINF:-1 tvg-id="熊猫频道0" tvg-name="熊猫频道0" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/00.jpeg"" group-title="熊猫直播",熊猫频道0
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=cnf9t4cgX7FZgkXepzvuYA%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道1" tvg-name="熊猫频道1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道1
+#EXTINF:-1 tvg-id="熊猫频道1" tvg-name="熊猫频道1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/01.jpeg" group-title="熊猫直播",熊猫频道1
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=9WUHOvqa9%2FaNVTzF7AzXqQ%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道2" tvg-name="熊猫频道2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道2
+#EXTINF:-1 tvg-id="熊猫频道2" tvg-name="熊猫频道2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/02.jpeg"" group-title="熊猫直播",熊猫频道2
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=DdcQALNARQawgoDRWXylEg%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道3" tvg-name="熊猫频道3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道3
+#EXTINF:-1 tvg-id="熊猫频道3" tvg-name="熊猫频道3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/03.jpeg" group-title="熊猫直播",熊猫频道3
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=3z5UXKy%2Fxa2dnwzk5WdV1g%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道4" tvg-name="熊猫频道4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道4
+#EXTINF:-1 tvg-id="熊猫频道4" tvg-name="熊猫频道4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/04.jpeg"" group-title="熊猫直播",熊猫频道4
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=8aVIp7AQ8S%2BkOxRh1yMY%2Bg%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道5" tvg-name="熊猫频道5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道5
+#EXTINF:-1 tvg-id="熊猫频道5" tvg-name="熊猫频道5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/05.jpeg"" group-title="熊猫直播",熊猫频道5
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=hNDx6QJF7rDXjtsRPALAPQ%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道6" tvg-name="熊猫频道6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道6
+#EXTINF:-1 tvg-id="熊猫频道6" tvg-name="熊猫频道6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/06.jpeg"" group-title="熊猫直播",熊猫频道6
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=iWu1E6VpALOyHxjSt4Opqw%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道7" tvg-name="熊猫频道7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道7
+#EXTINF:-1 tvg-id="熊猫频道7" tvg-name="熊猫频道7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/07.jpeg"" group-title="熊猫直播",熊猫频道7
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=m1DJ94TeZbPqGhaOmCkccg%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道8" tvg-name="熊猫频道8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道8
+#EXTINF:-1 tvg-id="熊猫频道8" tvg-name="熊猫频道8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/08.jpeg"" group-title="熊猫直播",熊猫频道8
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=Vam6%2BIAzSY5B%2FDqLXKaZjw%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道9" tvg-name="熊猫频道9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道9
+#EXTINF:-1 tvg-id="熊猫频道9" tvg-name="熊猫频道9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/09.jpeg"" group-title="熊猫直播",熊猫频道9
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=xUc59l%2BeRZ%2Bckd3gakRS0Q%3D%3D
-#EXTINF:-1 tvg-id="熊猫频道10" tvg-name="熊猫频道10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕直播",熊猫频道10
+#EXTINF:-1 tvg-id="熊猫频道10" tvg-name="熊猫频道10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/10.jpeg"" group-title="熊猫直播",熊猫频道10
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=ahv8ytIoFcjYrYyoYBDJYA%3D%3D
 
 
