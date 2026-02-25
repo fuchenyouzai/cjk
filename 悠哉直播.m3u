@@ -514,24 +514,24 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227294/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕晴彩",五星体育
 http://43.251.226.110:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
-#EXTINF:-1 tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕晴彩",晴彩竞技
+#EXTINF:-1 tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩竞技.png" group-title="咪咕晴彩",晴彩竞技
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227293/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
 
 
-#EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕晴彩",晴彩广场舞
+#EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩广场.png" group-title="咪咕晴彩",晴彩广场舞
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
 
-#EXTINF:-1 tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕晴彩",晴彩篮球
+#EXTINF:-1 tvg-id="晴彩篮球" tvg-name="晴彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩篮球.png" group-title="咪咕晴彩",晴彩篮球
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227478/index.m3u8
 
-#EXTINF:-1 tvg-id="晴彩少年" tvg-name="晴彩少年" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="咪咕晴彩",晴彩少年
+#EXTINF:-1 tvg-id="晴彩少年" tvg-name="晴彩少年" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩少年.png",晴彩少年
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
 
 
-#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="点线路换台",咪咕体育
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/咪视界.png" group-title="点线路换台",咪咕体育
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227299/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227302/index.m3u8
