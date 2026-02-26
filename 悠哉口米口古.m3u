@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz https://iptv.gstory.cn/Cinetry/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXT-X-VERSION:3
 
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩竞技.png" group-title="悠哉咪视界IPV4",睛彩竞技
@@ -393,22 +393,22 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="悠哉体育赛事" epg-url="https://iptv.gstory.cn/Cinetry/playback.xml",五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="悠哉体育赛事",五星体育
 http://43.251.226.110:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5.png" group-title="悠哉体育赛事" epg-url="https://iptv.gstory.cn/Cinetry/playback.xml",CCTV5体育
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5.png" group-title="悠哉体育赛事",CCTV5体育
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=QeGQgn0sZtoWh%2FXfjDik1g%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5plus.png" group-title="悠哉体育赛事", epg-url="https://iptv.gstory.cn/Cinetry/playback.xml",CCTV5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5plus.png" group-title="悠哉体育赛事",CCTV5+体育赛事
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=XxisoXUq5HpOxi6TzYkQMg%3D%3D
 
-#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5.png" group-title="悠哉体育赛事" epg-url="https://iptv.gstory.cn/Cinetry/playback.xml",CCTV5体育
+#EXTINF:-1 tvg-id="CCTV5体育" tvg-name="CCTV5体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5.png" group-title="悠哉体育赛事",CCTV5体育
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227218/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5plus.png" group-title="悠哉体育赛事" epg-url="https://iptv.gstory.cn/Cinetry/playback.xml",CCTV5+体育赛事
+#EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV5plus.png" group-title="悠哉体育赛事",CCTV5+体育赛事
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226198/index.m3u8
 
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV16.png" group-title="悠哉体育赛事" epg-url="https://iptv.gstory.cn/Cinetry/playback.xml",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV16.png" group-title="悠哉体育赛事",CCTV16奥林匹克
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 
 #EXTINF:-1 tvg-id="辽宁体育休闲" tvg-name="辽宁体育休闲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="悠哉体育赛事",辽宁体育休闲
