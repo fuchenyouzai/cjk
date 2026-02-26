@@ -278,8 +278,6 @@ http://gslbserv.itv.cmvideo.cn:80/5000000011000265008/1.m3u8?channel-id=FifastbL
 
 
 
-
-
 #EXTINF:-1 tvg-id="晴彩竞技" tvg-name="晴彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩竞技.png" group-title="悠哉辽宁咪咕",晴彩竞技
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227293/index.m3u8
@@ -292,8 +290,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
 
 #EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="晴彩广场舞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩广场.png" group-title="悠哉辽宁咪咕",晴彩广场舞
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="咪视界-1" tvg-name="咪视界-1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/咪视界.png" group-title="悠哉辽宁咪咕",咪视界-1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227296/index.m3u8
@@ -391,6 +387,10 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227448/index.m3u8
 #EXTINF:-1 tvg-id="咪视界-32" tvg-name="咪视界-32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/咪视界.png" group-title="悠哉辽宁咪咕",咪视界-32
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227451/index.m3u8
 
+#EXTINF:-1 tvg-id="咪视界-33" tvg-name="咪视界-33" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/咪视界.png" group-title="悠哉辽宁咪咕",咪视界-33
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227427/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="悠哉体育赛事" epg-url="https://iptv.gstory.cn/Cinetry/playback.xml",五星体育
@@ -426,6 +426,9 @@ http://127.0.0.1:9978/proxy?do=migu&type=program&id=TT9ExWokTNRWA2BDoK87lQ%3D%3D
 
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tvlogo/CCTV1.png" group-title="悠哉体育赛事",武术世界
 http://127.0.0.1:9978/proxy?do=migu&type=program&id=TpX%2B4ilD%2BhuriN6JNxIDXQ%3D%3D
+
+
+
 
 
 
