@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz https://iptv.gstory.cn/Cinetry/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/litiande03/epg/refs/heads/master/pl.xml.gz","https://iptv.gstory.cn/Cinetry/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXT-X-VERSION:3
 
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/Test-Example-png/main/晴彩竞技.png" group-title="悠哉咪视界IPV4",睛彩竞技
