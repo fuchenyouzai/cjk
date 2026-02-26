@@ -1385,10 +1385,12 @@
       "playerType": 2,
       "timeout": 10
     },
+
+
     {
       "name": "悠哉EPG测试",
       "type": 0,
-      "url": "./lib/悠哉直播.m3u",
+      "url": "./lib/测试一.m3u",
       "playerType": 2,
       "epg": "egp地址/?ch={name}&date={date}",
       "logo": "logo地址/logo/{name}.png"
@@ -1396,7 +1398,7 @@
     {
       "name": "悠哉直播测试",
       "type": 0,
-      "url": "./lib/悠哉直播.m3u",
+      "url": "./lib/测试二.m3u",
       "playerType": 1,
       "timeout": 10
     },
@@ -1434,6 +1436,23 @@
       "playerType": 2,
       "timeout": 10
     },
+
+    {
+      "name": "呵呵",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=0.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "鄙视",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=live&url=0.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
     {
       "name": "一起看",
       "type": 3,
@@ -1444,38 +1463,6 @@
         "sp": "Huya"
       },
       "timeout": 10
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "B站直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
     }
   ],
   "ijk": [
