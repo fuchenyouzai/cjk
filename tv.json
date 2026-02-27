@@ -75,7 +75,7 @@
       "key": "hipy_js_优酷[官]",
       "name": "优酷[官](drpy_t3)",
       "type": 3,
-      "api": ".https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
