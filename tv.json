@@ -105,6 +105,17 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/百忙无果[官].js"
     },
     {
+      "key": "hipy_js_菜狗[官]",
+      "name": "菜狗[官](drpy_t3)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/菜狗[官].js"
+    },
+    {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
