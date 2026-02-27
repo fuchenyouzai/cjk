@@ -115,6 +115,17 @@
       "order_num": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/菜狗[官].js"
     },
+{
+      "key": "hipy_js_360影视[官]",
+      "name": "360影视[官](drpy_t3)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/360影视[官].js"
+    },
     {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
@@ -123,6 +134,17 @@
 	  "searchable": 0,
 	  "ext": "./json/feimaolive.json"
 	},
+     {
+      "key": "hipy_js_直播转点播[合]",
+      "name": "直播转点播[合](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/live2cms.json"
+    },
 	{
       "key": "應用商店",
       "name": "悠哉应用商店",
