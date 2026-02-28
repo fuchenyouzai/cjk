@@ -1512,6 +1512,8 @@ rtsp://10.15.250.13/PLTV/460033/224/0/3221225938/000000000ac9.smil
 rtsp://10.15.250.13/PLTV/88888888/224/3221226551/10000100000000060000000000599467_0.smil
 #EXTINF:-1 tvg-id="党员教育" tvg-name="党员教育" tvg-logo="悠哉" group-title="辽宁联通内网",党员教育
 rtsp://10.15.250.13/PLTV/88888888/224/3221226520/10000100000000060000000000398797_0.smil
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/youzaifuchen/Application-Development-Testing/refs/heads/main/tv/zgtq.png" group-title="天气",中国天气
+http://127.0.0.1:9978/proxy?do=migu&type=program&id=mYA7XD9WZWWuLF4yqsQOIQ%3D%3D
 
 
 
