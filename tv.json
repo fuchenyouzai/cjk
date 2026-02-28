@@ -47,7 +47,7 @@
         "sp": "Jpys",
         "danmu": true
       },
-      "timeout": 20
+      "timeout": 30
     },
     {
       "key": "雄鹰弹幕版",
@@ -63,7 +63,7 @@
         "sp": "XiongYing",
         "danmu": true
       },
-      "timeout": 20
+      "timeout": 30
     },
     {
       "key": "hipy_js_奇珍异兽[官]",
@@ -76,7 +76,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/爱奇艺.js",
-      "timeout": 20
+      "timeout": 30
     },
     {
       "key": "hipy_js_优酷[官]",
@@ -89,7 +89,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/优酷[官].js",
-      "timeout": 20
+      "timeout": 30
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
@@ -102,7 +102,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/腾云驾雾[官].js",
-      "timeout": 20
+      "timeout": 30
     },
     {
       "key": "hipy_js_百忙无果[官]",
@@ -115,7 +115,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/百忙无果[官].js",
-      "timeout": 20
+      "timeout": 30
     },
     {
       "key": "hipy_js_菜狗[官]",
@@ -128,7 +128,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/菜狗[官].js",
-      "timeout": 20
+      "timeout": 30
     },
 {
       "key": "hipy_js_360影视[官]",
@@ -141,7 +141,7 @@
       "filterable": 1,
       "order_num": 1,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/360影视[官].js",
-      "timeout": 20
+      "timeout": 30
     },
     {
       "key": "hipy_js_哔哩影视[官]",
