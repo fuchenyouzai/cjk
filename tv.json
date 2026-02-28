@@ -8,12 +8,14 @@
       "name": "悠哉豆瓣",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "searchable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "changeable": 1,
+      "indexs": 1,
       "ext": {
         "sp": "Douban"
       },
-      "indexs": 1
+      "timeout": 15
     },
     {
       "key": "配置中心",
@@ -40,11 +42,12 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
+      "order_num": 1,
       "ext": {
         "sp": "Jpys",
         "danmu": true
       },
-      "timeout": 10
+      "timeout": 20
     },
     {
       "key": "雄鹰弹幕版",
@@ -55,11 +58,12 @@
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 1,
+      "order_num": 1,
       "ext": {
         "sp": "XiongYing",
         "danmu": true
       },
-      "timeout": 10
+      "timeout": 20
     },
     {
       "key": "hipy_js_奇珍异兽[官]",
@@ -68,9 +72,11 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/奇珍异兽[官].js"
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/爱奇艺.js",
+      "timeout": 20
     },
     {
       "key": "hipy_js_优酷[官]",
@@ -79,9 +85,11 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/优酷[官].js"
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/优酷[官].js",
+      "timeout": 20
     },
     {
       "key": "hipy_js_腾云驾雾[官]",
@@ -90,9 +98,11 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/腾云驾雾[官].js"
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/腾云驾雾[官].js",
+      "timeout": 20
     },
     {
       "key": "hipy_js_百忙无果[官]",
@@ -101,9 +111,11 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/百忙无果[官].js"
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/百忙无果[官].js",
+      "timeout": 20
     },
     {
       "key": "hipy_js_菜狗[官]",
@@ -112,9 +124,11 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/菜狗[官].js"
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/菜狗[官].js",
+      "timeout": 20
     },
 {
       "key": "hipy_js_360影视[官]",
@@ -123,39 +137,98 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "changeable": 0,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/360影视[官].js"
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/360影视[官].js",
+      "timeout": 20
+    },
+    {
+      "key": "hipy_js_哔哩影视[官]",
+      "name": "哔哩影视[官](drpy_t3)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/哔哩影视[官].js",
+      "timeout": 30
+    },
+    {
+      "key": "hipy_js_我的哔哩[官]1",
+      "name": "哔哩大全[官](drpy_t3)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "order_num": 1,
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/哔哩大全.json",
+      "timeout": 30
     },
     {
       "key": "直播转点播",
       "name": "🐼️┃电视┃直播",
       "type": 3,
-	  "api": "./js/live2vod.js",
+	  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/js/live2vod.js",
 	  "searchable": 0,
-	  "ext": "./json/feimaolive.json"
+	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/feimaolive.json"
 	},
-     {
-      "key": "hipy_js_直播转点播[合]",
-      "name": "直播转点播[合](drpy_t3)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/live2cms.json"
-    },
 	{
       "key": "應用商店",
       "name": "悠哉应用商店",
       "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/pg.jar",
       "api": "csp_Market",
-      "jar": "./jar/pg.jar",
       "searchable": 0,
 	  "changeable": 0,
-	  "ext": "./json/market.json"
+	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/market.json"
 	},
+    {
+      "key": "Local",
+      "name": "悠哉本地视频播放器",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0,
+      "timeout": 5
+    },
+    {
+      "key": "88看球",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "Kanqiu"
+      },
+      "timeout": 10
+    },
+    {
+      "key": "瓜子看球",
+      "name": "⚽瓜子┃看球",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "sp": "GzSport"
+      },
+      "timeout": 10
+    },
     {
       "key": "我的夸克",
       "name": "🗽我的┃夸克",
@@ -192,38 +265,8 @@
       },
       "timeout": 30
     },
-    {
-      "key": "瓜子看球",
-      "name": "⚽瓜子┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "GzSport"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "88看球",
-      "name": "⚽88┃看球",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "Kanqiu"
-      },
-      "timeout": 10
-    },
+
+
     {
       "key": "本地播放",
       "name": "🐼本地┃播放",
@@ -240,6 +283,66 @@
         "sp": "Local"
       }
     },
+    {
+      "key": "push_agent",
+      "name": "🛴手机┃推送",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "sp": "Push",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "push_agent",
+      "name": "推送┃链接",
+      "type": 3,
+      "jar": "./lib/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
+      "api": "csp_Push",
+      "searchable": 0,
+      "changeable": 0
+    },
+   {
+      "key": "wv_ysp",
+      "name": "wv | 央视频",
+      "type": "3",
+      "jar": "./jar/WvSpider.jar",
+      "api": "csp_WvSpider",
+      "ext": "./js/央视频.js",
+      "timeout": 300
+    },
+    {
+      "key": "咪咕视频",
+      "name": "咪咕视频",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./lib/咪咕视频.js",
+      "timeout": 20
+    },
+     {
+      "key": "hipy_js_直播转点播[合]",
+      "name": "直播转点播[合](drpy_t3)",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./json/live2cms.json"
+    },
+
+
+
     {
       "key": "二小弹幕",
       "name": "🦢二小┃4K弹幕",
@@ -384,6 +487,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
+      "hide": 0,
       "ext": {
         "sp": "HuBan",
         "danmu": true
@@ -1302,20 +1406,6 @@
       "changeable": 0,
       "ext": {
         "sp": "Djso"
-      },
-      "timeout": 25
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "sp": "Push",
-        "danmu": true
       },
       "timeout": 25
     }
