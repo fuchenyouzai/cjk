@@ -2737,17 +2737,24 @@
   "lives": 
    [
     {
-      "name": "悠哉综合直播",
+      "name": "悠哉口米口古直播",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=./悠哉直播.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古直播.m3u",
       "playerType": 1,
       "timeout": 60
     },
     {
-      "name": "悠哉咪咕体育",
+      "name": "悠哉LN移动内网育",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=./悠哉口米口古.m3u",
-      "playerType": 2,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉LN移动内网.m3u",
+      "playerType": 1,
+      "timeout": 60
+    },
+        {
+      "name": "悠哉口米口古体育",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/lib/live/悠哉口米口古体育.m3u",
+      "playerType": 1,
       "timeout": 60
     },
    {
@@ -2765,69 +2772,11 @@
       "timeout": 60
     },
     {
-      "name": "悠哉EPG测试",
-      "type": 0,
-      "url": "./测试一.m3u",
-      "playerType": 2,
-      "epg": "egp地址/?ch={name}&date={date}",
-      "logo": "logo地址/logo/{name}.png"
-    },
-    {
-      "name": "悠哉直播测试",
-      "type": 0,
-      "url": "./测试二.m3u",
-      "playerType": 1,
-      "timeout": 10
-    },
-   {
-      "name": "直播epg和logo和回放",
-  	"type": 0,
-	  "url": "./悠哉直播.m3u",
-  	"ua": "okhttp/3.15",
-	  "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-	  "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
-      "catchup": {
-        "type": "append",
-		"source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-   }
-   },
-    {
-      "name": "直播1",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-   {      
-     "name": "直播2", 
-     "type": 0,
-     "playerType": 2,
-     "url":"https://iptv.gstory.cn/Cinetry",
-     "ua": "bingcha/1.1 (mianfeifenxiang)"
-     },
-    {
       "name": "江苏移动",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=live&url=https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/529EAA1_773_jsyd_20251205182514164newMediaFile.bmp",
-      "playerType": 2,
+      "playerType": 1,
       "timeout": 10
-    },
-    {
-      "name": "信号测试一",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=1.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "信号测试二",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=0.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
     },
     {
       "name": "一起看",
@@ -2842,8 +2791,9 @@
     }
   ],
 
-  "ads":
-    [
+  "ads": [
+    "https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png",
+     "p-pc-weboff.byteimg.com",
     "mozai.4gtv.tv",
     "static-mozai.4gtv.tv",
     "mimg.0c1q0l.cn",
@@ -2905,5 +2855,5 @@
     "pv.vipwm.cc",
     "cms.qdwght.com",
     "s3t3d2y8.afcdn.net"
-  ]
+    ]
 }
