@@ -3,45 +3,83 @@
     "name": "悠哉推荐",
     "list": [
       {
-        "name": "悠哉",
-        "url": "1.apk",
+        "name": "悠哉博客",
+        "url": "https://d.kstore.dev/download/6644/悠哉博客安卓版.apk",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "version": "v7a安卓版"
     },
       {
-        "name": "苍井空",
-        "url": "1.apk",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "name": "clashMeta通用",
+        "url": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/cmfa-2.11.15-meta-armeabi-v7a-release.apk",
+        "icon": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/apple-touch-icon-precomposed.png",
+        "version": "v7a盒子手机"
     },
       {
-        "name": "吆西",
-        "url": "1.apk",
+        "name": "悠哉本地包",
+        "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/空.zip",
         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "version": "version"
+    },
+              {
+                "name": "本地包版本",
+                "url": "",
+                "icon": "http://127.0.0.1:9978/file/TVBoxOSC/tvbox/.版本.png",
+                "version": ""
+            },
+                          {
+                "name": "在线版本",
+                "url": "",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/.%E7%89%88%E6%9C%AC.png",
+                "version": ""
+            },
+      {
+        "name": "悠哉博客",
+        "url": "https://d.kstore.dev/download/6644/悠哉博客谷歌版.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+         "copy": "",
+       "version": "v7a谷歌版"
     }
     ]
   },
+      {
+        "name": "悠哉本地包",
+        "list": [
+            {
+                "name": "悠哉",
+                "url": "https://gh-proxy.com/https://github.com/fuchenyouzai/tg-youzaifuchenbot/raw/refs/heads/main/空.zip",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+                "copy": "",
+                "version": "本地包"
+            },
+            {
+                "name": "说明",
+                "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/refs/heads/main/README.md",
+                "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+                "copy": "",
+                "version": "README"
+            }
+        ]
+    },
   {
     "name": "电视TVBOX",
     "list": [
       {
-        "name": "电视盒子32V7A",
-        "url": "1.apk",
+        "name": "电视盒子安卓5",
+        "url": "https://d.kstore.dev/download/6644/安卓5电视版-32位-3.6.9.apk",
          "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
         "version": "v7a369"
       },
       {
-        "name": "电视盒子64V8A",
-        "url": "1.apk",
-         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v8a369"
-      },
-      {
-        "name": "海信32V7A",
-        "url": "1.apk",
+        "name": "电视盒子安卓五起",
+        "url": "https://d.kstore.dev/download/6644/369安卓五以上电视盒子armeabi_v7a.apk",
          "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
         "version": "v7a369"
+      },
+      {
+        "name": "海信版本",
+        "url": "https://d.kstore.dev/download/6644/海信电视专版-3.6.9.apk",
+         "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
+        "version": "369"
       },
       {
         "name": "电视盒子32V7A",
@@ -167,10 +205,10 @@
     "name": "电视盒子网络工具",
     "list": [
       {
-        "name": "clashMeta",
-        "url": "1.apk",
-        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
-        "version": "v7a"
+        "name": "clashMeta盒子通用",
+        "url": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/cmfa-2.11.15-meta-armeabi-v7a-release.apk",
+        "icon": "https://github.com/fuchenyouzai/cjk/raw/refs/heads/main/apple-touch-icon-precomposed.png",
+        "version": "v7a盒子手机"
       },
       {
         "name": "clash",
