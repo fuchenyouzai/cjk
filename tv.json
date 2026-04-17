@@ -33,6 +33,34 @@
         "sp": "Config"
       }
     },
+        {
+      "key": "直播转点播",
+      "name": "🐯悠哉直播📺",
+      "type": 3,
+	  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/js/live2vod.js",
+	  "searchable": 0,
+	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/feimaolive.json"
+	},
+	{
+      "key": "應用商店",
+      "name": "🏠悠哉应用商店🛍️",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/pg.jar",
+      "api": "csp_Market",
+      "searchable": 0,
+	  "changeable": 0,
+	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/market.json"
+	},
+    {
+      "key": "Local",
+      "name": "▶️悠哉本机播放器",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0,
+      "timeout": 5
+    },
     {
       "key": "文才",
       "name": "金牌🥇",
@@ -253,34 +281,7 @@
       "timeout": 30
     },
 
-    {
-      "key": "直播转点播",
-      "name": "🐼️┃电视┃直播",
-      "type": 3,
-	  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/js/live2vod.js",
-	  "searchable": 0,
-	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/feimaolive.json"
-	},
-	{
-      "key": "應用商店",
-      "name": "悠哉应用商店",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/pg.jar",
-      "api": "csp_Market",
-      "searchable": 0,
-	  "changeable": 0,
-	  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/json/market.json"
-	},
-    {
-      "key": "Local",
-      "name": "悠哉本地视频播放器",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/cjk/refs/heads/main/jar/fm0226.jar;md5;b0adab2fad1de8871b9533527f407cdf",
-      "api": "csp_Local",
-      "searchable": 0,
-      "changeable": 0,
-      "timeout": 5
-    },
+
     {
       "key": "本地播放",
       "name": "🐼本地┃播放",
