@@ -1,11 +1,11 @@
 {
   "spider": "./0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "./悠哉暗夜壁纸.jpg",
   "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/fuchenyouzai/tg-fuchenyouzaibot/main/icon-192.png",
   "sites": [
     {
       "key": "豆瓣",
-      "name": "悠哉豆瓣",
+      "name": "🏆悠哉影视剧综艺导航",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -19,7 +19,7 @@
     },
     {
       "key": "配置中心",
-      "name": "👨‍🍳‍配置┃中心",
+      "name": "⚙️配置设置中心⚙️",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
